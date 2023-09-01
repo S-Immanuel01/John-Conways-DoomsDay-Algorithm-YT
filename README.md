@@ -33,4 +33,7 @@ For leap year (year % 4 == 0) january and february would be decreased by 1
 - november -> 4;
 - december -> 6;
 
+## Final result
+  ![gitpic](https://github.com/S-Immanuel01/John-Conways-DoomsDay-Algorithm-YT/assets/142397823/00c3d202-1900-4ee2-9e77-023ea316ed42)
+
 To learn more on this Visit my YouTube channel
